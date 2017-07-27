@@ -1,0 +1,14 @@
+Sitemap: http://programadorphp.pe/sitemap.xml
+Sitemap: http://programadorphp.pe/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /page/*
+Disallow: /logo*
+Disallow: /crud_*
+Disallow: /mvc_*
+Disallow: /*_facebook*
+Disallow: /*-fb*
+Disallow: /wallhaven*
+Disallow: /cropped*
+
+Allow: /wp-admin/admin-ajax.php
